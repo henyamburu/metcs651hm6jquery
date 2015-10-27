@@ -26,7 +26,7 @@
 
         function  ServiceSucceeded(result) {
             //console.log(result);
-            $("#previewWords")[0].innerHTML = result.d;
+            $("#previewWords").html(result.d);
         }
 
         function ServiceFailed(result) {
@@ -36,7 +36,7 @@
         $(function () {
             $('#lineReader').keyup(function () {
                 if ($(this).length == 1) {
-                    CallService($(this)[0].value);
+                    CallService($(this).val());
                 }
             });           
         });
