@@ -1,0 +1,91 @@
+@media only screen and (max-width: 480px) {
+
+    body {	
+        font-size:10px;
+    }
+    
+    h1 {
+    font-size:14px;
+    }
+    
+     #header{
+	   height: 91px;
+    }
+    
+    #companyname {
+	   font-size: 16px;
+        margin-top:25px;
+    }
+    
+    /*MENU IN HEADER
+        http://line25.com/tutorials/how-to-create-a-pure-css-dropdown-menu
+    */    
+    #mainmenu{
+        visibility:hidden;
+    }
+    
+    #mainmenu-max-width-480px{
+        visibility: visible;
+        font-weight: bold;
+        position:absolute;
+        top:53px;
+        left: 140px;
+    }
+    
+    #mainmenu-max-width-480px li{
+        list-style:none;
+        height:100%;
+    }
+    
+    #mainmenu-max-width-480px a{
+        text-decoration:none;
+        color:#333333;
+        display:block;
+    }
+    
+    #mainmenu-max-width-480px ul{
+        padding: 0;
+    }
+    
+    #mainmenu-max-width-480px ul ul {
+	   display: none;
+        position: relative; 
+        padding-left: 10px;
+    }
+    
+    #mainmenu-max-width-480px ul ul li {
+		float:none; 
+		position: relative;
+        display: block;
+	}
+
+
+	#mainmenu-max-width-480px ul li:hover > ul {
+		display: block;
+	}
+    
+    #mainmenu-max-width-480px a {
+        padding:1px 15px 1px;
+    }
+    
+    .reader{
+        bottom: 10px;
+    }
+    
+     #lineReader {
+        width: 100%;
+        height: 100px;
+     }
+
+.container-content div.scroller{
+    width: 99%; 
+    border: 2px solid #dcdcdc;
+    height: 100px;
+    margin-top: 10px;
+    padding: 0;
+}
+    
+    .footer ul{
+        visibility: hidden;
+    }
+}

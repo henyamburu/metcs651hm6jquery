@@ -1,0 +1,10 @@
+C:\_MyCode\BU MET CS651\BartMburu_homework5\AspNet\Modules\bin\Debug\Modules.dll
+C:\_MyCode\BU MET CS651\BartMburu_homework5\AspNet\Modules\bin\Debug\Modules.pdb
+C:\_MyCode\BU MET CS651\BartMburu_homework5\AspNet\Modules\obj\Debug\Modules.csprojResolveAssemblyReference.cache
+C:\_MyCode\BU MET CS651\BartMburu_homework5\AspNet\Modules\obj\Debug\Modules.dll
+C:\_MyCode\BU MET CS651\BartMburu_homework5\AspNet\Modules\obj\Debug\Modules.pdb
+C:\_MyCode\BU MET CS651\BartMburu_homework6\AspNet\Modules\bin\Debug\Modules.dll
+C:\_MyCode\BU MET CS651\BartMburu_homework6\AspNet\Modules\bin\Debug\Modules.pdb
+C:\_MyCode\BU MET CS651\BartMburu_homework6\AspNet\Modules\obj\Debug\Modules.csprojResolveAssemblyReference.cache
+C:\_MyCode\BU MET CS651\BartMburu_homework6\AspNet\Modules\obj\Debug\Modules.dll
+C:\_MyCode\BU MET CS651\BartMburu_homework6\AspNet\Modules\obj\Debug\Modules.pdb

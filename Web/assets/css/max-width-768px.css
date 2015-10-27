@@ -1,0 +1,50 @@
+@media only screen and (max-width: 768px) {
+    
+    body {	
+        font-size:12px;
+    }
+    
+    h1 {
+        font-size:16px;
+    }
+    
+    #header{
+	   height: 112px;
+    }
+    
+    #companyname {
+	   font-size: 26px;
+        margin-top:35px;
+    }
+    
+    #mainmenu-max-width-480px{
+        visibility:hidden;
+    }
+    
+    #mainmenu {
+        visibility:visible;
+        bottom: 14px;
+    }
+    
+    #mainmenu, #mainmenu ul, .footer ul, #mainmenu a {
+	   font-size: 10px;
+    }
+    
+    #mainmenu li {
+        height:21px;
+    }
+    
+    #mainmenu a {
+        padding:3px 8px 2px;
+    }
+    
+    #lineReader {
+    width: 47%
+}
+
+.container-content div.scroller{
+    width: 47%; 
+    border: 3px solid #dcdcdc;
+}
+
+}
